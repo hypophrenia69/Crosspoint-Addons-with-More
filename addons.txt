@@ -3,3 +3,4 @@
 # Each add-on repository builds and tests on its own; this list only combines them.
 Menrix/Crosspoint-Dogear      patch/apply_dogear.py
 Menrix/Crosspoint-ToDoList    patch/apply_todolist.py
+hypophrenia69/Crosspoint-Apps      patch/apply_apps.py
